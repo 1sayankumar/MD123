@@ -115,4 +115,4 @@ geom_point(size=1,color='blue')+
 scale_x_continuous(limits=c(min_long,max_long))+
 scale_y_continuous(limits = c(min_lat,max_lat))+
 theme_map()+
-ggtitle("INDIA MAP BASED ON UBER RIDES DURING 2014 (APR-SEP)")
+ggtitle("DELHI MAP BASED ON UBER RIDES DURING 2014 (APR-SEP)")
